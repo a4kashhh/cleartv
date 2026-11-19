@@ -134,3 +134,4 @@ All disabled OEM applications and original settings are restored immediately.
 
 * Distributed under the **MIT License**. See `LICENSE` for details.
 * Inspired by the open-source Android TV community and CleanYourTV foundations.
+
